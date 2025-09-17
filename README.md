@@ -38,18 +38,6 @@ Analyze customer engagement
 
 🛠️ Tech Stack
 
-Frontend: React.js / Next.js
-
-Backend: Node.js / Express.js
-
-Database: PostgreSQL / MongoDB
-
-Version Control: Git & GitHub
-
-Deployment: (Heroku / Vercel / AWS — choose based on what you’ll use)
-
-
-
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-18.0.0-339933?logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?logo=postgresql&logoColor=white)
